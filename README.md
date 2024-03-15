@@ -1,5 +1,14 @@
 # Coccidiosis-Chicken-Disease-Classification
 
+# Business Case: Conducting a Classification Problem for Coccidiosis
+
+## 1. Introduction:
+Coccidiosis is a parasitic disease caused by protozoa of the genus Eimeria, affecting various animals including poultry, cattle, sheep, and swine. It poses a significant threat to animal health and productivity, leading to economic losses for farmers and agricultural industries worldwide. Early detection and effective management of coccidiosis are crucial for mitigating its impact on livestock populations.
+
+## 2. Problem Statement:
+Despite advancements in veterinary medicine, diagnosing coccidiosis remains challenging due to the complex nature of the disease and its varied clinical manifestations. Traditional diagnostic methods are often time-consuming, labor-intensive, and may lack accuracy, leading to delays in treatment and increased economic losses for farmers.
+
+
 ## Workflows
 
 1. Update config.yaml
@@ -90,7 +99,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/cocc
+    - Save the URI: 654654313269.dkr.ecr.eu-north-1.amazonaws.com/cocc
 
 	
 ## 4. Create EC2 machine (Ubuntu) 

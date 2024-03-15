@@ -137,16 +137,16 @@ open up you local host and port
 
 ## Save pass:
 
-s3cEZKH5yytiVnJ3h+eI3qhhzf9q1vNwEi6+q+WGdd+ACRCZ7JD6
+XT8ZyLPH3hoV7aNZWB9jLxv+2Yg5dX3QQYaJNSz2Yb+ACRCbaS3B
 
 
 ## Run from terminal:
 
-docker build -t chickenapp.azurecr.io/chicken:latest .
+docker build -t coccapp.azurecr.io/coccapp:latest .
 
-docker login chickenapp.azurecr.io
+docker login coccapp.azurecr.io
 
-docker push chickenapp.azurecr.io/chicken:latest
+docker push coccapp.azurecr.io/coccapp:latest
 
 
 ## Deployment Steps:
